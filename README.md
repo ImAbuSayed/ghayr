@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Ghayr |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 23, 2026 |
+| Lyric Writing Date | April 24, 2026 |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
 
@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> نار الشوق في قلبي تشتعل
+> روحي تناديك في صمت الليل
+> تعال إلي قلبي لك يميل
+> في حضنك يضيع المستحيل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
