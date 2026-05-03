@@ -11,6 +11,7 @@
 | Title | Ghayr |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
 | Lyric Writing Date | April 24, 2026 |
+| Song Page | [Open Song Page](https://imabusayed.github.io/ghayr/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
 
